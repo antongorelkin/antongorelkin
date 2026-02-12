@@ -10,7 +10,7 @@
 
 ### 📌 Мои проекты
 - [**Название проекта 1**](ссылка) — интернет-магазин на React (корзина, фильтры).
-- [**Название проекта 2**](ссылка) — адаптивный лендинг (HTML, CSS, JS).
+- [W-Wave-Radio](https://github.com/antongorelkin/W-Wave-Radio) — адаптивный лендинг (HTML, CSS, JS).
 
 ### 📫 Как связаться
 [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/Anton_Gorelkin42)
