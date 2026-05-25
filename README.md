@@ -1,23 +1,59 @@
 # Привет, я Антон Горелкин! 👋
 
-Я начинающий фронтенд-разработчик. Учусь создавать современные веб-интерфейсы. Прошёл стажировку в компании SanaUp, имею сертификат международного образца о прохождении стажировки.
-Так же продолжаю своё обучение на stepik, решаю задачи на leetcode и codewars. 
+Фронтенд-разработчик (React / TypeScript), нацеленный на создание быстрых, отказоустойчивых Single Page Applications (SPA) с безупречным UX. Имею опыт коммерческой стажировки, подтвержденный сертификатом международного образца. 
 
-### 🛠 Мой стек
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![React Router](https://img.shields.io/badge/-React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white)
-![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+Постоянно прокачиваю алгоритмическую базу на **LeetCode** / **CodeWars** и изучаю продвинутую архитектуру веб-приложений.
+
+---
+
+### 🛠 Мой технологический стек
+
+#### Core Frontend & Frameworks:
+![React](https://shields.io)
+![TypeScript](https://shields.io)
+![JavaScript](https://shields.io)
+![Redux](https://shields.io)
+
+#### Styling & Build Tools:
+![Tailwind CSS](https://shields.io)
 ![SASS](https://img.shields.io/badge/-SCSS-CC6699?style=flat-square&logo=sass&logoColor=white)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![React Router](https://img.shields.io/badge/-React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white)
 
-### 📌 Мои проекты
--  [Официальный сайт компании Sanaup](https://sanaup.offiwebsite.com/) — за время стажировки принимал участие в разработке данного сайта в команде из 4-х человек.
--  [Официальный сайт SkillShift](https://skillshift.offiwebsite.com/) - так же принимал участие в разработке данного сайта.
-- [React-Shop]( https://antongorelkin.github.io/react-shop/) — интернет-магазин на React (корзина, фильтры).
-- [W-Wave-Radio](https://github.com/antongorelkin/W-Wave-Radio) — адаптивный лендинг (HTML, CSS, JS).
+#### BaaS & AI Integration:
+![Supabase](https://shields.io)
+![OpenRouter API](https://shields.io)
 
-### 📫 Как связаться
+---
+
+### 📌 Выбранные проекты (Featured Projects)
+
+#### 🪄 [SmartFridge.](https://github.com) — Умный облачный инвентарь холодильника с ИИ-Шефом
+*Флагманский Fullstack пет-проект. Автоматический контроль просрочки продуктов, автогенерация рецептов через OpenRouter API по текущему составу продуктов и умный список покупок.*
+*   **Стек:** React 19, TypeScript, Vite, Tailwind CSS v4, Supabase Auth & PostgreSQL, LocalStorage.
+*   **Архитектура:** Строгая декомпозиция на контейнеры/презентационные компоненты (Bento UI layout), паттерн *Lazy State Initialization* для кэширования ответов ИИ, Mobile-First адаптивность с PWA нижним таб-баром.
+
+#### 🛒 [SkillShift](https://skillshift.offiwebsite.com/) — Образовательная SPA-платформа
+*Принимал участие в коммерческой разработке платформы в составе кросс-функциональной команды.*
+*   **Стек:** React, TypeScript, Redux, SCSS, Vite.
+*   **Решения:** Реализовал адаптивный интерфейс, ленивую загрузку (Lazy Loading) курсов и кэширование данных для оптимизации производительности.
+
+#### 🏢 [Внутренняя платформа SanaUp](https://sanaup.offiwebsite.com/) — Корпоративный SaaS-портал
+*Принимал участие в разработке универсального портала для внутренних сервисов компании во время стажировки.*
+*   **Стек:** React, TypeScript, Redux, SCSS, React Router.
+*   **Решения:** Разработал систему динамической клиентской маршрутизации и централизованное глобальное состояние приложения.
+
+#### 🛍 [React-Shop](https://antongorelkin.github.io/react-shop/) — Интернет-магазин
+*Интерактивный e-commerce интерфейс на React с полноценной корзиной, интерактивными фильтрами товаров и стейт-менеджментом.*
+*   **Стек:** React, JavaScript, CSS3, HTML5.
+
+#### 📻 [W-Wave-Radio](https://github.com/antongorelkin/W-Wave-Radio) — Адаптивный лендинг
+*Чистая семантическая верстка посадочной страницы мультимедийного сервиса скролл-анимациями.*
+*   **Стек:** HTML5, CSS3, native JavaScript.
+
+---
+
+### 📫 Как со мной связаться
+
 [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/Anton_Gorelkin42)
 [![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:lucky42ru@mail.com)
