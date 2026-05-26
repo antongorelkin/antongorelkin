@@ -16,14 +16,13 @@
 
 #### Styling & Build Tools:
 ![Tailwind CSS](https://shields.io)
-![SASS](https://img.shields.io/badge/-SCSS-CC6699?style=flat-square&logo=sass&logoColor=white)
-![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![React Router](https://img.shields.io/badge/-React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white)
+![SASS](https://shields.io)
+![Vite](https://shields.io)
+![React Router](https://shields.io)
 
 #### BaaS & AI Integration:
 ![Supabase](https://shields.io)
 ![OpenRouter API](https://shields.io)
-
 ---
 
 ### 📌 Выбранные проекты (Featured Projects)
