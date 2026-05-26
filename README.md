@@ -8,21 +8,34 @@
 
 ### 🛠 Мой технологический стек
 
-#### Core Frontend & Frameworks:
-![React](https://shields.io)
-![TypeScript](https://shields.io)
-![JavaScript](https://shields.io)
-![Redux](https://shields.io)
+<p align="left">
+  <!-- React -->
+  <img src="data:image/svg+xml;utf8,<svg xmlns='http://w3.org' viewBox='-11.5 -10.23174 23 20.46348'><circle cx='0' cy='0' r='2.05' fill='%2361dafb'/><g stroke='%2361dafb' stroke-width='1' fill='none'><ellipse rx='11' ry='4.2'/><ellipse rx='11' ry='4.2' transform='rotate(60)'/><ellipse rx='11' ry='4.2' transform='rotate(120)'/></g></svg>" alt="React" width="40" height="40" style="margin-right: 10px;" />
+  &nbsp;
+  <!-- TypeScript -->
+  <img src="data:image/svg+xml;utf8,<svg xmlns='http://w3.org' viewBox='0 0 100 100'><rect width='100' height='100' fill='%233178c6'/><text x='90' y='85' fill='white' font-family='sans-serif' font-weight='bold' font-size='42' text-anchor='end'>TS</text></svg>" alt="TypeScript" width="40" height="40" style="margin-right: 10px;" />
+  &nbsp;
+  <!-- JavaScript -->
+  <img src="data:image/svg+xml;utf8,<svg xmlns='http://w3.org' viewBox='0 0 100 100'><rect width='100' height='100' fill='%23f7df1e'/><text x='90' y='85' fill='black' font-family='sans-serif' font-weight='bold' font-size='42' text-anchor='end'>JS</text></svg>" alt="JavaScript" width="40" height="40" style="margin-right: 10px;" />
+  &nbsp;
+  <!-- Redux -->
+  <img src="data:image/svg+xml;utf8,<svg xmlns='http://w3.org' viewBox='0 0 24 24' fill='%23764ABC'><path d='M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z'/></svg>" alt="Redux" width="40" height="40" style="margin-right: 10px;" />
+  &nbsp;
+  <!-- Tailwind CSS -->
+  <img src="data:image/svg+xml;utf8,<svg xmlns='http://w3.org' viewBox='0 0 24 24' fill='%2338bdf8'><path d='M12 3c-1.2 0-2.4.6-3.3 1.7L3.4 11c-1.8 2.2-1.8 5.4 0 7.6l1.2 1.4c.9 1.1 2.1 1.7 3.3 1.7h8.2c1.2 0 2.4-.6 3.3-1.7l5.3-6.3c1.8-2.2 1.8-5.4 0-7.6l-1.2-1.4c-.9-1.1-2.1-1.7-3.3-1.7H12z'/></svg>" alt="Tailwind CSS" width="40" height="40" style="margin-right: 10px;" />
+  &nbsp;
+  <!-- SASS / SCSS -->
+  <img src="data:image/svg+xml;utf8,<svg xmlns='http://w3.org' viewBox='0 0 24 24' fill='%23cf649a'><path d='M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm1 15.5h-2v-2h2v2zm0-4.5h-2V7h2v6z'/></svg>" alt="SCSS" width="40" height="40" style="margin-right: 10px;" />
+  &nbsp;
+  <!-- Vite -->
+  <img src="data:image/svg+xml;utf8,<svg xmlns='http://w3.org' viewBox='0 0 32 32'><path fill='%23646CFF' d='M16 2L3 26h26L16 2z'/><path fill='%23F6E05E' d='M16 12l-6 11h12l-6-11z'/></svg>" alt="Vite" width="40" height="40" style="margin-right: 10px;" />
+  &nbsp;
+  <!-- Supabase -->
+  <img src="data:image/svg+xml;utf8,<svg xmlns='http://w3.org' viewBox='0 0 24 24' fill='%233ecf8e'><path d='M21.4 10.3l-8.7-5c-.4-.2-.9-.2-1.3 0l-8.7 5c-.4.2-.7.7-.7 1.2v10c0 .5.3 1 .7 1.2.2.1.4.1.6.1.2 0 .5-.1.7-.2l8.7-5c.4-.2.7-.7.7-1.2v-10c0-.5-.3-1-.7-1.2z'/></svg>" alt="Supabase" width="40" height="40" style="margin-right: 10px;" />
+</p>
 
-#### Styling & Build Tools:
-![Tailwind CSS](https://shields.io)
-![SASS](https://shields.io)
-![Vite](https://shields.io)
-![React Router](https://shields.io)
+---
 
-#### BaaS & AI Integration:
-![Supabase](https://shields.io)
-![OpenRouter API](https://shields.io)
 
 
 ### 📌 Выбранные проекты (Featured Projects)
