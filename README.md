@@ -9,22 +9,20 @@
 ### 🛠 Мой технологический стек
 
 #### Core Frontend & Frameworks:
-[<img src="https://jsdelivr.net" width="45" height="45" alt="React" />](https://react.dev) &nbsp;
-[<img src="https://jsdelivr.net" width="45" height="45" alt="TypeScript" />](https://typescriptlang.org) &nbsp;
-[<img src="https://jsdelivr.net" width="45" height="45" alt="JavaScript" />](https://mozilla.org) &nbsp;
-[<img src="https://jsdelivr.net" width="45" height="45" alt="Redux" />](https://js.org)
+![React](https://shields.io)
+![TypeScript](https://shields.io)
+![JavaScript](https://shields.io)
+![Redux](https://shields.io)
 
 #### Styling & Build Tools:
-[<img src="https://jsdelivr.net" width="45" height="45" alt="Tailwind" />](https://tailwindcss.com) &nbsp;
-[<img src="https://jsdelivr.net" width="45" height="45" alt="SCSS" />](https://sass-lang.com) &nbsp;
-[<img src="https://jsdelivr.net" width="45" height="45" alt="Vite" />](https://vite.dev) &nbsp;
-[<img src="https://jsdelivr.net" width="45" height="45" alt="React Router" />](https://reactrouter.com)
+![Tailwind CSS](https://shields.io)
+![SASS](https://shields.io)
+![Vite](https://shields.io)
+![React Router](https://shields.io)
 
 #### BaaS & AI Integration:
-[<img src="https://jsdelivr.net" width="45" height="45" alt="Supabase" />](https://supabase.com) &nbsp;
-[<img src="https://jsdelivr.net" width="45" height="45" alt="AI Integration" />](https://openrouter.ai)
-
-
+![Supabase](https://shields.io)
+![OpenRouter API](https://shields.io)
 
 
 ### 📌 Выбранные проекты (Featured Projects)
