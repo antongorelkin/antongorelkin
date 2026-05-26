@@ -8,9 +8,22 @@
 
 ### 🛠 Мой технологический стек
 
-*   **Core Frontend & Frameworks:** `React 19` | `TypeScript` | `JavaScript (ES6+)` | `Redux Toolkit`
-*   **Styling & Build Tools:** `Tailwind CSS v4` | `SCSS` | `Vite` | `React Router`
-*   **BaaS & AI Integration:** `Supabase (PostgreSQL)` | `OpenRouter API (LLM)`
+#### Core Frontend & Frameworks:
+[<img src="https://jsdelivr.net" width="45" height="45" alt="React" />](https://react.dev) &nbsp;
+[<img src="https://jsdelivr.net" width="45" height="45" alt="TypeScript" />](https://typescriptlang.org) &nbsp;
+[<img src="https://jsdelivr.net" width="45" height="45" alt="JavaScript" />](https://mozilla.org) &nbsp;
+[<img src="https://jsdelivr.net" width="45" height="45" alt="Redux" />](https://js.org)
+
+#### Styling & Build Tools:
+[<img src="https://jsdelivr.net" width="45" height="45" alt="Tailwind" />](https://tailwindcss.com) &nbsp;
+[<img src="https://jsdelivr.net" width="45" height="45" alt="SCSS" />](https://sass-lang.com) &nbsp;
+[<img src="https://jsdelivr.net" width="45" height="45" alt="Vite" />](https://vite.dev) &nbsp;
+[<img src="https://jsdelivr.net" width="45" height="45" alt="React Router" />](https://reactrouter.com)
+
+#### BaaS & AI Integration:
+[<img src="https://jsdelivr.net" width="45" height="45" alt="Supabase" />](https://supabase.com) &nbsp;
+[<img src="https://jsdelivr.net" width="45" height="45" alt="AI Integration" />](https://openrouter.ai)
+
 
 
 
