@@ -8,37 +8,10 @@
 
 ### 🛠 Мой технологический стек
 
-<p align="left">
-  <!-- Core Frontend & Frameworks -->
-  <a href="https://react.dev" target="_blank" rel="noreferrer">
-    <img src="https://githubusercontent.com" alt="react" width="40" height="40" style="max-width: 100%; margin-right: 10px;"/>
-  </a>
-  <a href="https://typescriptlang.org" target="_blank" rel="noreferrer">
-    <img src="https://githubusercontent.com" alt="typescript" width="40" height="40" style="max-width: 100%; margin-right: 10px;"/>
-  </a>
-  <a href="https://mozilla.org" target="_blank" rel="noreferrer">
-    <img src="https://githubusercontent.com" alt="javascript" width="40" height="40" style="max-width: 100%; margin-right: 10px;"/>
-  </a>
-  <a href="https://js.org" target="_blank" rel="noreferrer">
-    <img src="https://githubusercontent.com" alt="redux" width="40" height="40" style="max-width: 100%; margin-right: 10px;"/>
-  </a>
-  <!-- Styling & Build Tools -->
-  <a href="https://tailwindcss.com" target="_blank" rel="noreferrer">
-    <img src="https://vectorlogo.zone" alt="tailwind" width="40" height="40" style="max-width: 100%; margin-right: 10px;"/>
-  </a>
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
-    <img src="https://githubusercontent.com" alt="sass" width="40" height="40" style="max-width: 100%; margin-right: 10px;"/>
-  </a>
-  <a href="https://vite.dev" target="_blank" rel="noreferrer">
-    <img src="https://vectorlogo.zone" alt="vite" width="40" height="40" style="max-width: 100%; margin-right: 10px;"/>
-  </a>
-  <!-- BaaS & AI Integration -->
-  <a href="https://supabase.com" target="_blank" rel="noreferrer">
-    <img src="https://vectorlogo.zone" alt="supabase" width="40" height="40" style="max-width: 100%; margin-right: 10px;"/>
-  </a>
-</p>
+*   **Core Frontend & Frameworks:** `React 19` | `TypeScript` | `JavaScript (ES6+)` | `Redux Toolkit`
+*   **Styling & Build Tools:** `Tailwind CSS v4` | `SCSS` | `Vite` | `React Router`
+*   **BaaS & AI Integration:** `Supabase (PostgreSQL)` | `OpenRouter API (LLM)`
 
----
 
 
 ### 📌 Выбранные проекты (Featured Projects)
