@@ -28,6 +28,7 @@
 
 👉 **Открыть приложение на Vercel:** [https://food-app-drab-three.vercel.app/](https://food-app-drab-three.vercel.app/)
 
+---
 
 #### 🛒 [SkillShift](https://skillshift.offiwebsite.com/) — Образовательная SPA-платформа
 *Принимал участие в коммерческой разработке платформы в составе кросс-функциональной команды.*
