@@ -24,6 +24,11 @@
 *   **Стек:** React 19, TypeScript, Vite, Tailwind CSS v4, Supabase Auth & PostgreSQL, LocalStorage.
 *   **Архитектура:** Строгая декомпозиция на контейнеры/презентационные компоненты (Bento UI layout), паттерн *Lazy State Initialization* для кэширования ответов ИИ, Mobile-First адаптивность с PWA нижним таб-баром.
 
+## 🔗 Живое Демо (Live Demo)
+
+👉 **Открыть приложение на Vercel:** [https://food-app-drab-three.vercel.app/](https://food-app-drab-three.vercel.app/)
+
+
 #### 🛒 [SkillShift](https://skillshift.offiwebsite.com/) — Образовательная SPA-платформа
 *Принимал участие в коммерческой разработке платформы в составе кросс-функциональной команды.*
 *   **Стек:** React, TypeScript, Redux, SCSS, Vite.
