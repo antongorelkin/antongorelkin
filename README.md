@@ -48,7 +48,7 @@
 *Чистая семантическая верстка посадочной страницы мультимедийного сервиса скролл-анимациями.*
 *   **Стек:** HTML5, CSS3, native JavaScript.
 
-### 🎯 [FocusBento](https://github.com/antongorelkin/focus-bento) — Интеллектуальный Канбан-органайзер
+### 🎯  [FocusBento (Live Demo)] (https://focus-bento-id7s.vercel.app/) | [Исходный код](https://github.com/antongorelkin/focus-bento) — Интеллектуальный Канбан-органайзер
 
 *Интеллектуальный Канбан-органайзер в стиле Bento Grid с ИИ-коучем, таймером Помодоро и RPG-геймификацией для борьбы с прокрастинацией.*
 
